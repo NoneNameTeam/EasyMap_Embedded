@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "EasyMap_Embedded",
+			"path": "../.."
+		},
+		{
+			"name": "Demo-ov7670",
+			"path": "."
+		},
+		{
+			"path": "../../../../BM-Agent/ESP32/ESP32-S3"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"locale": "cpp",
+			"thread": "cpp",
+			"xlocale": "cpp",
+			"xlocmes": "cpp",
+			"xlocmon": "cpp",
+			"xlocnum": "cpp",
+			"xloctime": "cpp"
+		}
+	}
+}
